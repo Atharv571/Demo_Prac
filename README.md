@@ -1,4 +1,4 @@
 # Demo_Prac
 This is my first git repo
 <br>
-Author - Atharv
+Author - Atharv Nirgude
